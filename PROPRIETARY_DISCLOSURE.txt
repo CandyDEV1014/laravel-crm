@@ -1,0 +1,49 @@
+================================================================================
+PROPRIETARY SOFTWARE DISCLOSURE
+================================================================================
+
+Repository: laravel-crm
+Owner: CandyDEV1014
+Status: FOR SALE
+
+================================================================================
+IMPORTANT LEGAL NOTICE
+================================================================================
+
+This repository contains confidential and proprietary source code.
+
+UNAUTHORIZED ACCESS, USE, COPYING, MODIFICATION, OR DISTRIBUTION IS PROHIBITED.
+
+This software is owned by CandyDEV1014 and is being offered for commercial purchase.
+
+For evaluation purposes, access is granted ONLY to authorized parties who have 
+executed a Non-Disclosure Agreement (NDA) with CandyDEV1014.
+
+================================================================================
+TERMS OF EVALUATION
+================================================================================
+
+If you have been granted access to evaluate this software:
+
+1. You may review the code solely to assess suitability for your use case
+2. You must keep all information confidential
+3. You cannot modify, distribute, or use this code without explicit permission
+4. You must not incorporate any part of this code into your own projects
+5. All evaluation rights terminate if you do not enter into a purchase agreement
+
+================================================================================
+COMMERCIAL LICENSE REQUIRED
+================================================================================
+
+To use this software commercially, you MUST obtain a commercial license from 
+CandyDEV1014. Using this software for commercial purposes without a valid 
+license agreement is a violation of intellectual property rights.
+
+================================================================================
+CONTACT FOR INQUIRIES
+================================================================================
+
+GitHub: @CandyDEV1014
+Email: [Add your email address]
+
+================================================================================
